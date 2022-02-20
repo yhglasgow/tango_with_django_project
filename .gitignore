@@ -1,0 +1,4 @@
+.DS_Store
+db.qulite3
+__pycache__/
+.pyc 
